@@ -16,7 +16,8 @@ context = ssl.create_default_context() # SSL Context Connection
 filelist = []
 
 SIGNATURES = { # Add HTML Encoding
-
+    "Select Signature": """\
+    This is an example Signature<br>"""
 }
 
 # TEMPLATES
