@@ -1,4 +1,4 @@
-# Mailplate
+# Mailplate (End Of Life)
 Mailplate is a templated emailer for business developers.
 
 Requirements:
